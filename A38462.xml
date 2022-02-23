@@ -1,0 +1,425 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>English loyalty vindicated by the French divines, or, A declaration and subscription of threescore doctors of Sorbonne for the oath of allegiance as it was originally deliver'd by them in Latin faithfully done in English by W.H.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38462</idno>
+            <idno type="STC">Wing E3096</idno>
+            <idno type="STC">ESTC R15302</idno>
+            <idno type="EEBO-CITATION">11848987</idno>
+            <idno type="OCLC">ocm 11848987</idno>
+            <idno type="VID">49870</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49870)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 28:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>English loyalty vindicated by the French divines, or, A declaration and subscription of threescore doctors of Sorbonne for the oath of allegiance as it was originally deliver'd by them in Latin faithfully done in English by W.H.</title>
+                  <author>W. H.</author>
+               </titleStmt>
+               <extent>[8], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allegiance.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49870:1"/>
+            <p>Engliſh Loyalty Vindicated by the French Divines; OR, A DECLARATION AND SUBSCRIPTION Of Threeſcore DOCTORS of SORBONNE, FOR THE <hi>Oath of Allegiance,</hi> As it was Originally deliver'd by them in <hi>LATIN.</hi>
+            </p>
+            <p>Faithfully done in <hi>Engliſh,</hi> By <hi>W. H.</hi>
+            </p>
+            <q xml:lang="lat">
+               <p>Tributum Caeſaris est, non negatur.</p>
+               <bibl>Ambr. Ep. 32.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nath. Thompſon</hi> next to the <hi>Croſs-Keys</hi> in <hi>Fetter-Lane,</hi> MDCLXXXI.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:49870:2"/>
+            <pb facs="tcp:49870:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>'TIs the Duty of all good Subjects to give ſincere and undeniable Proofs of <hi>Loyalty</hi> to their <hi>Prince;</hi> And becauſe the <hi>Oath of Allegi<g ref="char:EOLhyphen"/>ance</hi> is generally offer'd to <hi>Roman-Catholicks,</hi> as the <hi>Legal Teſt</hi> of their <hi>Fidelity,</hi> (in which they all pro<g ref="char:EOLhyphen"/>feſs to agree as to the ſubſtance, tho' ſome hard words in it, and other circumſtances not in the leaſt material to their <hi>Allegiance,</hi> as ſome affirm, have caus'd diſ<g ref="char:EOLhyphen"/>ſputes;, and rais'd Scruples in tender or weak Con<g ref="char:EOLhyphen"/>ciences) ſeveral <hi>Gentlemen</hi> and <hi>Perſons</hi> of <hi>Quali<g ref="char:EOLhyphen"/>ty,</hi> of their perſuaſion, have made it their buſineſs theſe late years, to clear thoſe ſmall Doubts, that whilſt the Subſtance of the <hi>Oath</hi> is embrac'd by all, none ſhould ſtartle at the ſhadow, ſince they almoſt unanimouſly, at leaſt very few excepted, who are ſuf<g ref="char:EOLhyphen"/>ſiciently known to the World, acknowledge the <hi>Imperial
+<pb facs="tcp:49870:3"/>Crown</hi> of <hi>England</hi> independent of any <hi>Depoſing Power</hi> whatſoever.</p>
+            <p>Their misfortune in being diſpers'd and driven into Foreign Countries, almoſt ever ſince the beginning of theſe Troubleſome times, has given them at laſt a fair opportunity to accmpliſh abroad, what they were before endeavouring to effect at home; And becauſe there were Difficulties grounded, (as many did ſuppoſe,) chiefly upon <hi>Religion,</hi> which made them boggle at the taking of the <hi>Oath;</hi> The whole matter, with all the particu<g ref="char:EOLhyphen"/>lars, was propos'd to the <hi>Doctors</hi> of <hi>Sorbonne</hi> at <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi> a Body of as able and learned <hi>Divines,</hi> as any is of the <hi>Roman Perſuaſion:</hi> and thoſe whom <hi>Rome</hi> it ſelf, upon Debates of the greateſt moment, has often conſulted and advis'd with. Many of theſe Pious and Learned <hi>Doctors</hi> have examin'd the <hi>Oath</hi> very care<g ref="char:EOLhyphen"/>fully, have weighed every word, and conſider'd every cir<g ref="char:EOLhyphen"/>cumſtance; And as they themſelves declare, <hi>Perpenſis omnibus difficultatibus praecipuè illis, quae à ſum<g ref="char:EOLhyphen"/>morum Pontificum Brevibus adverſus hoc Jura<g ref="char:EOLhyphen"/>mentum
+<pb facs="tcp:49870:3"/>datis, &amp; ab haereſeos notâ Paragrapho, quarto petuntur,</hi> Having weighed all the difficulties, particularly thoſe that ariſe from the <hi>Popes Breifs</hi> given againſt this <hi>Oath;</hi> and from the word <hi>Heretical</hi> in the fourth <hi>Paragraph,</hi> after a long and mature Deliberation, have given under their Hands this following <hi>Determi<g ref="char:EOLhyphen"/>nation</hi> and <hi>Declaration,</hi> upon the <hi>Oath</hi> in <hi>Latin</hi> as 'twas worded when firſt ſent to <hi>Rome</hi> in <hi>Paul</hi> the fifths time. Which, with a faithful Tranſlation has been thought very Convenient to be Publiſh'd here in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that Men of clearer underſtanding, and of deeper ſence then the common ſort of People; and whoſe Judge<g ref="char:EOLhyphen"/>ment is wholly carried by the ſtrength of reaſon, may be ſenſible that the <hi>Roman Catholicks,</hi> (tho' never in ſo great a diſtreſs) will be always ready, with all ſubmiſ<g ref="char:EOLhyphen"/>ſion and chearfulneſs to give <hi>Caeſar</hi> his due, which can<g ref="char:EOLhyphen"/>not be deny'd him, but by a breach of the Law of <hi>Jeſus Chriſt;</hi> who with the ſame breath <hi>Commanded Obedience to God in Heaven, and to</hi> Caeſar <hi>his Vice-gerent upon Farth.</hi> By which Decree of the
+<pb facs="tcp:49870:4"/>
+               <hi>Divine Wiſdom,</hi> the <hi>Primitive Chriſtians</hi> thought the <hi>Emperors</hi> and <hi>Kings</hi> ſo well ſettled in their <hi>Thrones,</hi> that great <hi>Athanaſius,</hi> the Pillar of <hi>Ca<g ref="char:EOLhyphen"/>tholick Faith</hi> againſt the <hi>Arians,</hi> Writing to <hi>Conſtan<g ref="char:EOLhyphen"/>tius</hi> the firſt <hi>Heterodox Emperor,</hi> and a dreadful Enemy to <hi>Gods Church,</hi> acknowledges: That no Power in the World, (without oppoſiing <hi>Gods</hi> poſitive Com<g ref="char:EOLhyphen"/>mand,) can ſo much as caſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſpiteful look upon his <hi>Crown. Tibi Deus Imperium commiſit—qui tuum Imperium malignis oculis carpit contradicit Ordinationi Divinae. God,</hi> ſays he, <hi>Has Com<g ref="char:EOLhyphen"/>mitted the Empire unto You, he that but looks a<g ref="char:EOLhyphen"/>wry upon your Empire, oppoſes Gods Ordination.</hi> And St. <hi>Auguſtin</hi> commending the obedieuce the <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> conſtantly paid to <hi>Julian</hi> the <hi>Apoſtate, Succeſſor</hi> to <hi>Conſtantius;</hi> Speaks thus of them, upon the <hi>Pſal. 124. Propter Dominum aeternum ſubditi erant Domino temporali, quia neceſſitate ſubditi erant, non ſolùm propter iram evadendam, ſed etiam propter conſcientiam, propter dilectionem, &amp;
+<pb facs="tcp:49870:4"/>quia juſſit Dominus.</hi> They obey'd the <hi>Temporal Lord</hi> for the <hi>Eternal Lords Sake,</hi> becauſe they were by neceſſity his <hi>Subjects,</hi> not only to avoid anger but for <hi>Conſcience</hi> ſake, out of Love, and becauſe God Com<g ref="char:EOLhyphen"/>manded it.</p>
+            <p>Certainly in that Golden age of <hi>Chriſtianty</hi> there was no ſuch thing as depoſing <hi>Emperors</hi> and <hi>Kings,</hi> or diſ<g ref="char:EOLhyphen"/>penſing with their <hi>Subjects Allegiance</hi> upon the ſcore of <hi>Hereſie</hi> or <hi>Apoſtaſy,</hi> or upon any other pretence what<g ref="char:EOLhyphen"/>ſoever. And many hundred years after <hi>Pope Gregory</hi> the <hi>II.</hi> declar'd in a Letter to the Emperor <hi>Leo Iſau<g ref="char:EOLhyphen"/>ricus,</hi> accounted a dangerous <hi>Heretick</hi> by the <hi>See</hi> of <hi>Rome,</hi> that he had not the power ſo much as to look in<g ref="char:EOLhyphen"/>to his <hi>Majeſties Palace;</hi> and to diſpoſe of any of his <hi>Regalities, Pontiſex introſpiciendi in Palatio po<g ref="char:EOLhyphen"/>teſtatem non habet, ac dignitates Regias deferendi.</hi> Where was the pretended <hi>depoſing power</hi> in thoſe days?</p>
+            <p>This <hi>publication</hi> will be therefore very neceſſa<g ref="char:EOLhyphen"/>ry alſo for the ſatisfaction of ſeveral honeſt and well<g ref="char:EOLhyphen"/>meaning
+<pb facs="tcp:49870:5"/>
+               <hi>Catholicks,</hi> who having been hitherto troubled with doubts, for want, it may be, of a right informa<g ref="char:EOLhyphen"/>tion concerning the <hi>Oath,</hi> may be glad to have ſo firm and ſo good a ground to ſettle their wavering and ſcru<g ref="char:EOLhyphen"/>pulous Conſcience upon.</p>
+            <p>Theſe were the motives which induc'd me to make this publick, and as my endeavours in all this buſineſs have been clear from all Intereſt, and my intentions ſincere, without any other proſpect but of the common good, I hope in this I may have oblig'd many, without incurring the diſ<g ref="char:EOLhyphen"/>pleaſure of any one, who is a lover of truth, and a faithful Subject to his Majeſty.</p>
+            <closer>
+               <signed>W. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="version">
+            <div type="tract">
+               <pb n="1" facs="tcp:49870:5"/>
+               <head>QUAERITUR An Salvâ Fide &amp; turâ Conſcientiâ <hi>A Catholicis Anglis</hi> Praeſtari poſſit ſubſequens Juramentum.</head>
+               <p>EGo <hi>A.B.</hi> verè &amp; ſincerè agnoſco, profiteor, teſtificor, &amp; declaro in conſcientiâ meâ, coram Deo &amp; mundo, quod ſupremus Dominus noſter <hi>Rex Carolus</hi> eſt Legitimus &amp; verus hujus <hi>Regni Rex,</hi> &amp; omnium aliorum <hi>Majeſtatis ſuae</hi> Dominiorum, &amp; terrarum.</p>
+               <pb n="2" facs="tcp:49870:6"/>
+               <p> Et quod <hi>Papa,</hi> nec per-ſeipſum, nec per <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> autoritatem <hi>Eccleſiae</hi> vel ſedis <hi>Romanae,</hi> aut per-<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lla alia media cum quibuſcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> aliis aliquam poteſta<g ref="char:EOLhyphen"/>tem, vel autorittem habeat <hi>Regem</hi> deponendi, vel de aliquious <hi>Majeſtati ſuae</hi> Regnis aut Dominiis diſponendi, vel alicui Principi extraneo ad ipſum damnificandum, aut terras ſuas inuadendum auto<g ref="char:EOLhyphen"/>ritatem concedendi, vel ullos ſubditorum ſuorum ab eorum <hi>ſuae Majeſtati</hi> Subjectione &amp; obedientiâ exonerand<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> aut ullis eorum licentiam vel faculta<g ref="char:EOLhyphen"/>tem dandi, ut arma contra ipſum gerant, tumultus excitent, aut aliquam violentiam aut damnum <hi>Majeſtatis ſuae Regiae Perſonae, Statui</hi> vel regimini, aut aliquibus <hi>Majeſtatis ſuae</hi> Subditis intra ſua Dominia offerant<g ref="char:punc">▪</g>
+               </p>
+               <p>Item Juro ex corde, quod non obſtante ullâ de<g ref="char:EOLhyphen"/>claratione, vel ſententiâ Excommunicationis vel deprivationis factâ, vel conceſſâ aut faciendâ vel concedendâ per <hi>Papam</hi> vel Succeſſores vel per quamcunque autoritatem derivatam, aut derivari praeten ſam abille ſeu a ſuâ ſede contra dictum <hi>Re<g ref="char:EOLhyphen"/>gem, Haeredes</hi> aut Succeſſores ſuos, vel quaounque abſolutione dictorum ſubditorum ab eorum obedi<g ref="char:EOLhyphen"/>entiâ,
+<pb n="3" facs="tcp:49870:6"/>fidelitatem &amp; veram obedientiam <hi>ſuae Ma<g ref="char:EOLhyphen"/>jeſtati, Haeredibus,</hi> &amp; Succeſſoribus ſuis praeſtabo, ipſum que, &amp; ipſos totis meis viribus contra omnes Conſpirationes &amp; attentata quaecunque, quae con<g ref="char:EOLhyphen"/>tra Perſonam illius vel illorum eorumque Coronam &amp; dignitatem ratione vel colore alicujus ejuſmodi ſententiae vel Declarationis vel alias facta fuerint defendam, omnemque operam impendam, ut <hi>Ma<g ref="char:EOLhyphen"/>jeſtati ſuae,</hi> haeredibus, &amp; Succeſloribus ſuis revelem &amp; manifeſtas faciam omnes Proditiones &amp; Prodito<g ref="char:EOLhyphen"/>rias Conſpirationes, quae contra illum aut aliquos illorum attentari cognoſcam, vel audiam.</p>
+               <p>Praeterea Juro, quod ex corde abhorreo, de<g ref="char:EOLhyphen"/>teſtor &amp; abjuro tanquam impiam &amp; <hi>haere<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cam</hi> hanc Doctrinam &amp; damnabilem poſitionem, quod Principies per <hi>Papam</hi> Excommunicati vel deprivati poſſunt per ſuos ſubditos vel alios quoſcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> depo<g ref="char:EOLhyphen"/>ni, aut occidi.</p>
+               <p>Et vlterius credo &amp; in Conſcientiâ meâ reſolvor quod nec <hi>Papa,</hi> nec ulla alia Perſona quaecunque poteſtatem habeat me ab hoc Juramento, aut ali<g ref="char:EOLhyphen"/>quâ ejus parte, abſoluendi: Quod Juramentum agnoſco rectâ &amp; plenâ autoritate eſſe legitimè
+<pb n="4" facs="tcp:49870:7"/>mihi miniſtratum, omnibus Indulgentiis ac Diſ<g ref="char:EOLhyphen"/>penſationibus in contrarium renuncio, haecque om<g ref="char:EOLhyphen"/>nia planè &amp; ſincerè agnoſco &amp; juro, iuxta haec ex<g ref="char:EOLhyphen"/>preſſa verba à me prolara, &amp; juxta planum &amp; communem ſenſum &amp; intellectum eorum verbo<g ref="char:EOLhyphen"/>rum, abſque vllâ aequivocatione aut mentali evaſi<g ref="char:EOLhyphen"/>one, aut ſecretâ reſervatione quâcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> hanc<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> recognitionem &amp; agnitionem facio cordialiter voluntariè, &amp; verè in verâ fide <hi>Chriſtiani viri.</hi> Sic me Deus adjuvet.</p>
+            </div>
+            <div type="theological_opinion">
+               <p>NOs infra ſcripti Eccleſiae &amp; Academiae <hi>Pari<g ref="char:EOLhyphen"/>ſienſis Cancellarius,</hi> Doctor ſocius Sorbo<g ref="char:EOLhyphen"/>nicus, teſtamur omnibus quorum intereſt vel inter<g ref="char:EOLhyphen"/>eſſe poteſt, attento nos animo vidiſſe, &amp; perle<g ref="char:EOLhyphen"/>giſſe juramentum ſupra tranſcriptum, nihilque in eo reperiiſſe quod ſit verbo Dei, aut <hi>Catholicae</hi> &amp; <hi>Apoſtolicae</hi> fidei contrarium, proindeque-cenſemus illud ſalvâ eâdem fide &amp; tutâ Conſcientiâ a <hi>Catholi<g ref="char:EOLhyphen"/>cis Anglis</hi> emitti poſſe, imo &amp; eos ex <hi>Religione</hi> te<g ref="char:EOLhyphen"/>neri illud idem, ut fideles decet Subditos, omni ratione adimplere &amp; exequi. In Cujus rei fidem
+<pb n="5" facs="tcp:49870:7"/>Subſcripſimus &amp; praeſentem Subſcriptionem Sigillo noſtro muniri fecimus.</p>
+               <closer>
+                  <dateline>Datum <hi>Pariſiis</hi> in aedibus <hi>Beatae Mariae</hi> 
+                     <date>die nonâ <hi>Auguſti,</hi> Anno Dom. 1681.</date>
+                  </dateline>
+                  <signed>COQUELIN.</signed>
+               </closer>
+               <postscript>
+                  <p>Ex mandato praefati Dom. <hi>Cancellarii.</hi>
+                  </p>
+                  <closer>
+                     <signed>ROGER.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="theological_opinion">
+               <p>
+                  <hi>NOs infra ſcripti ſacrae facultatis</hi> Pariſienſis Theologi <hi>cenſemus Iuſiurandum, ut in ob<g ref="char:EOLhyphen"/>verſâ paginâ conceptum eſt, ſaluâ fide, &amp; tutâ Conſcientiâ à</hi> Catholicis Anglis <hi>jurari poſſe: Si modo in propoſitione, quae eſt de depoſitione &amp; caede</hi> Prin<g ref="char:EOLhyphen"/>cipum, <hi>&amp; quae damnatur ut</hi> Haeretica, Deponi <hi>&amp;</hi> Oc<g ref="char:EOLhyphen"/>cidi <hi>conjunctim accipiantur, imo &amp; ſi diviſim, ita ut tamen propoſitio</hi> materialiter <hi>(id eſt verbo Dei contraria) finiatur, quatenus deponi poſſe Principes effert,</hi> formaliter <hi>vero etiam, quatenus &amp; occidi poſſe</hi>
+               </p>
+               <closer>
+                  <dateline>Superaddit, Deliberatum, datumque <hi>Pariſiis</hi> 
+                     <date>die decimâ ſextâ. <hi>Auguſti</hi> Anno Dom. 1680.</date>
+                  </dateline>
+                  <signed>
+                     <pb n="6" facs="tcp:49870:8"/>
+                     <list>
+                        <item>Alex. Vaillant, Paſtor <hi>Sti.</hi> Chriſtophori.</item>
+                        <item>Chaſſebras, Archipresbyter Paris. <hi>&amp;</hi> Paſtor <hi>Stae.</hi> Mariae Mag.</item>
+                        <item>Gerbais, Collegii Rhemen<g ref="char:EOLhyphen"/>ſis Primarius.</item>
+                        <item>Mezure, Paſtor <hi>Sti.</hi> Pauli.</item>
+                        <item>Le Caron, Paſtor <hi>Sti.</hi> Petri.</item>
+                        <item>Rouland.</item>
+                        <item>N. Petitpied, Paſtor <hi>Sti.</hi> Marcelli.</item>
+                        <item>Le Feure, Profeſſor Regius <hi>in</hi> Theologiâ.</item>
+                        <item>Navarre.</item>
+                        <item>A. Faure, Vicarius <hi>gene<g ref="char:EOLhyphen"/>ralis</hi> Eccleſiae Rhemen<g ref="char:EOLhyphen"/>ſis.</item>
+                        <item>Fran. Lovis.</item>
+                        <item>Le Feure.</item>
+                        <item>Ph. Le Feron, Archdiaconus Eccleſiae Santonenſis.</item>
+                        <item>Ph. du Bois, Primarius Collegii <hi>de</hi> Faen.</item>
+                        <item>Biord.</item>
+                        <item>Thire.</item>
+                        <item>Varet.</item>
+                        <item>Robine, Eremita Auguſti<g ref="char:EOLhyphen"/>nianus.</item>
+                        <item>André.</item>
+                        <item>Mouteau.</item>
+                        <item>Des Moulins.</item>
+                        <item>De Leſcolle.</item>
+                        <item>Bigres.</item>
+                        <item>De Riviere.</item>
+                        <item>Camyn.</item>
+                        <item>C. Blovin.</item>
+                        <item>Petitpied.</item>
+                        <item>J. de Beaumont.</item>
+                        <item>De Bienual.</item>
+                        <item>J. de Guigneul.</item>
+                        <item>Le Charpentier, Can. Re<g ref="char:EOLhyphen"/>gul.</item>
+                        <item>L. Empereur, Canonicus Reg.</item>
+                        <item>Hicot.</item>
+                        <pb n="7" facs="tcp:49870:8"/>
+                        <item> De la Grange, Canon. Reg.</item>
+                        <item>Denis.</item>
+                        <item>F. de Bourges, Can. Reg.</item>
+                        <item>Du Four.</item>
+                        <item>J. C. Braquet.</item>
+                        <item>Bourdon Can. Reg.</item>
+                        <item>Blampignon, Paſtor <hi>Sti.</hi> Mederici.</item>
+                        <item>J. Marie.</item>
+                        <item>L. Deuyon, d Heroual Nau.</item>
+                        <item>Baſſet.</item>
+                        <item>Baudinet, Carmelita.</item>
+                        <item>Le Peſcheur.</item>
+                        <item>F. J. Germain Carmelita.</item>
+                        <item>A. P. Deuyon Can. Reg.</item>
+                        <item>M. Humbelot.</item>
+                        <item>De la Mare.</item>
+                        <item>Le Tourneur.</item>
+                        <item>Courcier Theologus, Eccl. Paris.</item>
+                        <item>De Mouſſeau. Senator Curiae Paris.</item>
+                        <item>T. H. Malet Carmeli<g ref="char:EOLhyphen"/>ta.</item>
+                        <item>De Fita, Paſtor S. S. Coſmae <hi>&amp;</hi> Dam.</item>
+                        <item>Berthault, Coll. <hi>Stae.</hi> Barb. Primarius.</item>
+                        <item>Boeſſet.</item>
+                        <item>Le Feron.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Eidem Deliberationi Subſcripti nullâ adhibitâ limitatione.</p>
+                  <closer>
+                     <signed>
+                        <hi>Le Marais,</hi> Paſtor Clauſtri <hi>B. V.</hi>
+                     </signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="attestation_of_authenticity">
+               <pb n="8" facs="tcp:49870:9"/>
+               <p>SUpradicta Declaratio cum Subſcriptionibus Doctorum infra eam deſcriptorum, Con<g ref="char:EOLhyphen"/>cordat cum originali ejuſdem Declarationis, prout mihi conſtitit ex collatione à me factâ cum dicto o<g ref="char:EOLhyphen"/>riginali die decimâ tertiâ <hi>Octobris</hi> Anno 1681. In cujus rei fidem Subſcripti <hi>Pariſiis</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>Taſsin</hi> Actuarius facultaris ſacrae Theologiae <hi>Pariſienſis.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div xml:lang="eng" type="version">
+            <div type="tract">
+               <pb n="9" facs="tcp:49870:9"/>
+               <head>The Queſtion is, Whether the <hi>Eng<g ref="char:EOLhyphen"/>liſh Catholicks</hi> may with ſafety of Faith and Conſcience, take this following <hi>OATH.</hi>
+               </head>
+               <p>I <hi>A. B.</hi> do truly and ſincerely acknowledge, profeſs, teſtifie, and declare in my Conſcience before God and the World, That our Sovereign Lord King <hi>Charles</hi> the Second is lawful and rightful King of this Realm, and of all other His Majeſties Dominions and Countries, and that the <hi>Pope</hi> neither of himſelf nor by any authority of the Church or See of <hi>Rome,</hi> or by any other means with any other, hath any Power or Autho<g ref="char:EOLhyphen"/>rity to Depoſe the King, or to Diſpoſe of any of His Majeſties Kingdoms or Dominions, or to authorize any Foreign Prince to Invade or Annoy Him, or His Coun<g ref="char:EOLhyphen"/>tries, or to diſcharge any of His Subjects of their Alle<g ref="char:EOLhyphen"/>giance and Obedience to His Majeſty, or to give Licence or leave to any of them to bear Arms, raiſe Tumults, or to offer any violence or hurt to His Majeſties Royal Perſon, State, or Government, or to any of His Ma<g ref="char:EOLhyphen"/>jeſties Subjects, within His Majeſties Dominions.</p>
+               <p>Alſo I do ſwear from my heart, That notwithſtanding any Declaration or Sentence of Excommunication, or Deprivation, made or granted, or to be made or granted, by the <hi>Pope</hi> or his Succeſſors, or by any authority derived, or pretended to or derived, from him, or his See, againſt the ſaid King, His Heirs or Succeſſors; or any Abſolution of the ſaid Subjects from their obedience. I will be at faith and
+<pb n="10" facs="tcp:49870:10"/>true allegiance to His Majeſty, His Heirs and Succeſſors, and Him and Them will defend to the uttermoſt of my Powe, againſt all Conſpiracies and Attempts whatſo<g ref="char:EOLhyphen"/>ever, which ſhall be made againſt His or their Perſons, their Crown and Dignity, by reaſon or colour of any ſuch Sentence or Declaration, or otherwiſe; and will do my beſt endeavour to diſcloſe and make known unto His Ma<g ref="char:EOLhyphen"/>jeſty, His Heirs and Succeſſors, all Treaſons and Traiterous Conſpiracies, which I ſhall know or hear of to be againſt Him, or any of them.</p>
+               <p>And I do further ſwear, That I do from my heart ab<g ref="char:EOLhyphen"/>hor, deteſt, and abjure, as Impious and Heretical, this damnable Doctrine and Poſition, That Princes which be Excommunicated or Deprived by the <hi>Pope,</hi> may be de<g ref="char:EOLhyphen"/>poſed or murthered by their Subjects, or any other what<g ref="char:EOLhyphen"/>ſoever.</p>
+               <p>And I do believe, and in Conſcience am reſolved, That neither the <hi>Pope,</hi> nor any Perſon whatſoever, hath power to abſolve me of this Oath, or any part there<g ref="char:EOLhyphen"/>of, which I acknowledge by good and full authority to be lawfully miniſtred unto me, and do renounce all Par<g ref="char:EOLhyphen"/>dons and Diſpenſations to the contrary. And all theſe things I do plainly and ſincerely acknowledge and ſwear according to theſe expreſs words by me ſpoken, and accor<g ref="char:EOLhyphen"/>ding to the plain and common ſenſe and underſtanding of the ſame words, without any Equivocation or mental Evaſion, or ſecret Reſervation whatſoever. And I do make this recognition and acknowledgment heartily, wil<g ref="char:EOLhyphen"/>lingly, and truly, upon the true faith of a Chriſtian.</p>
+               <p>So help me God.</p>
+            </div>
+            <div type="theological_opinion">
+               <pb n="11" facs="tcp:49870:10"/>
+               <head>The <hi>Reſolution</hi> and <hi>Declaration</hi> of the <hi>Chancellor</hi> of the <hi>Vniverſity</hi> of <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi> upon the Queſtion.</head>
+               <p>WE underwritten, Chancellor of the <hi>Church</hi> and <hi>Univerſity</hi> of <hi>Paris,</hi> do teſtifie to all, who are, or may be concern'd, That we have ſeen, and have ſeriouſly perus'd the <hi>Oath</hi> above tran<g ref="char:EOLhyphen"/>ſcrib'd, and that we have found nothing in it con<g ref="char:EOLhyphen"/>trary to the <hi>word of God,</hi> or to the <hi>Catholick and Apo<g ref="char:EOLhyphen"/>ſtolick Faith;</hi> And therefore we judge that it may be taken by the <hi>Engliſh Catholicks</hi> with a ſafe Faith and a good Conſcience; Nay, and that they are bound by the <hi>Principles of Religion,</hi> as it becomes faithful Subjects, to fulfil it, and practice it in all points. In witneſs whereof We have here Subſcrib'd, and have order'd this preſent Subſcription to be Seal'd with our Seal.</p>
+               <closer>
+                  <dateline>Given at <hi>Paris</hi> in the Church of the <hi>Bleſſed Virgin Mary,</hi> 
+                     <date>the 9<hi>th.</hi> of <hi>Auguſt,</hi> in the year of our Lord, 1681.</date>
+                  </dateline> 
+                  <signed>COQUELIN.</signed>
+               </closer>
+               <postscript>
+                  <p>By the command of the aforeſaid <hi>Lord Chancello<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </p>
+                  <closer>
+                     <signed>ROGER,</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="theological_opinion">
+               <pb n="12" facs="tcp:49870:11"/>
+               <head>The <hi>Declaration</hi> and <hi>Subſcription</hi> of the other <hi>Doctors,</hi> with their <hi>Titles</hi> and <hi>Qualities.</hi>
+               </head>
+               <p>
+                  <hi>WE underwritten Divines of the</hi> Sacred Fa<g ref="char:EOLhyphen"/>culty <hi>of</hi> Paris, <hi>do judge the</hi> Oath, <hi>as it is conceiv'd in the other Page, may with ſafety of</hi> Faith <hi>and</hi> Conſcience <hi>be taken by the</hi> Engliſh Catho<g ref="char:EOLhyphen"/>licks, <hi>ſo that the words,</hi> Depos'd <hi>and</hi> Murder'd (<hi>in the propoſition, which is of the depoſition and</hi> Murder <hi>of</hi> Princes, <hi>and which is Condemn'd as</hi> Heretical,) <hi>be taken joyntly; Nay alſo, tho' ſepa<g ref="char:EOLhyphen"/>rately; ſo notwithſtanding that the</hi> Heretical <hi>pro<g ref="char:EOLhyphen"/>poſition, for as much as it aſſerts, That</hi> Princes <hi>may be Depos'd, be taken materially (that is con<g ref="char:EOLhyphen"/>trary to the word of God) and formally alſo, for as much as it adds, That they may be</hi> Murder'd.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Alex. Vaillant, Paſtor <hi>of St.</hi> Chriſtophers.</item>
+                        <item>Chaſſebras, Arch-prieſt <hi>of</hi> Paris, <hi>and</hi> Paſtor <hi>of St.</hi> Mary Magdaline.</item>
+                        <item>Gerbais, Principal <hi>of the</hi> Colledge <hi>of</hi> Reims.</item>
+                        <item>Mezure, Paſtor <hi>of St.</hi> Paul.</item>
+                        <item>Le Caron, Paſtor <hi>of St.</hi> Peters.</item>
+                        <item>Rouland</item>
+                        <item>N. Petitpied, Paſtor <hi>of St.</hi> Marcellus.</item>
+                        <pb n="13" facs="tcp:49870:11"/>
+                        <item> Le Feure, Profeſſor Royal <hi>in</hi> Divinity.</item>
+                        <item>Navarre.</item>
+                        <item>A. Faure, Vicar-<hi>general of the</hi> Church <hi>of</hi> Reims.</item>
+                        <item>Fran. Lovis.</item>
+                        <item>Le Feure.</item>
+                        <item>Ph. Le Feron, Arch-deacon <hi>of the</hi> Church <hi>of</hi> Sens.</item>
+                        <item>Ph. du Bois, Principal <hi>of the</hi> Colledge <hi>of the</hi> Threſurors.</item>
+                        <item>Biord.</item>
+                        <item>Thire.</item>
+                        <item>Varet.</item>
+                        <item>Robine, Auguſtin Ermite.</item>
+                        <item>André.</item>
+                        <item>Mouteau.</item>
+                        <item>Des Moulins.</item>
+                        <item>De Leſcolle.</item>
+                        <item>Bigres</item>
+                        <item>De Riviere.</item>
+                        <item>Camyn.</item>
+                        <item>C. Blovin.</item>
+                        <item>Petitpied.</item>
+                        <item>De Bienual.</item>
+                        <item>J. de Beaumont.</item>
+                        <item>J. de Guigneul.</item>
+                        <item>Le Charpentier, Can. Re<g ref="char:EOLhyphen"/>gular <hi>of St.</hi> Augustin.</item>
+                        <item>L. Empereur, Can. Regu<g ref="char:EOLhyphen"/>lar.</item>
+                        <item>Hicot.</item>
+                        <item>De la Grange, Can. Re<g ref="char:EOLhyphen"/>gular.</item>
+                        <item>Denis.</item>
+                        <item>F. de Bourges, Can. Regu<g ref="char:EOLhyphen"/>lar.</item>
+                        <item>Du Four.</item>
+                        <item>J. C. Braquet.</item>
+                        <item>Bourdon Can. Regular.</item>
+                        <item>Blampignon, Paſtor <hi>of St.</hi> Mederick.</item>
+                        <item>J. Marie.</item>
+                        <item>L. Deuyon, D'Heroval Nau.</item>
+                        <item>Baſſet.</item>
+                        <item>Baudinet, Carmelit Fryer.</item>
+                        <item>Le Peſcheur.</item>
+                        <item>F. J. Germain Car. Fryer.</item>
+                        <pb n="14" facs="tcp:49870:12"/>
+                        <item> A. P. Deuyon D'Heroval Can. Regular.</item>
+                        <item>M. Humbelot.</item>
+                        <item>De la Mare.</item>
+                        <item>Le Tourneur.</item>
+                        <item>Courcier Theologal, <hi>of the</hi> Church <hi>of</hi> Paris.</item>
+                        <item>De Mouſſeau, Counſellor <hi>of the</hi> Parliament <hi>of</hi> Pa<g ref="char:EOLhyphen"/>ris.</item>
+                        <item>T. H. Malet Carmelit Fryer.</item>
+                        <item>De Fita, Paſtor <hi>of</hi> S. S. Coſma <hi>and</hi> Damianus.</item>
+                        <item>Berthault, Principal <hi>of the</hi> Colledge <hi>of St.</hi> Barbara.</item>
+                        <item>Boeſſet.</item>
+                        <item>Le Feron.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>I have Subſcrib'd to the ſame Declaration without any reſtriction.</p>
+                  <closer>
+                     <signed>
+                        <hi>Le Marais,</hi> Paſtor of the Cloiſter of our <hi>Bleſſed Virgin.</hi>
+                     </signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="attestation_of_the_documents_authenticity">
+               <pb n="15" facs="tcp:49870:12"/>
+               <p>THe aforeſaid <hi>Declaration,</hi> with the Subſcrip<g ref="char:EOLhyphen"/>tions of the Doctors mention'd under it, does agree with the Original of the ſame <hi>Declara<g ref="char:EOLhyphen"/>tion,</hi> as it did appear to me, by the comparing it to the ſaid Original, the <hi>13th,</hi> of <hi>October,</hi> in the year 1681. In Witneſs whereof, I have ſub<g ref="char:EOLhyphen"/>ſcrib'd this at <hi>Paris.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>Taſſin,</hi> Regiſter of the <hi>Sacred Faculty</hi>of <hi>Divinity</hi> of <hi>Paris.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
